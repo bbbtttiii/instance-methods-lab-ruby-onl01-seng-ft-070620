@@ -3,7 +3,7 @@ class Person
     puts "Hello World!"
   end
   
-  puts walk
-    "The Person is walking"
+  def walk
+    puts "The Person is walking"
   end
 end
